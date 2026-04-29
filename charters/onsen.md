@@ -17,8 +17,6 @@ The WG may develop new service or network YANG data models related to IETF techn
 
 Beyond these, ONSEN will define service-layer APIs based on YANG service models to interface with OSS/BSS, enabling automated and interoperable service orchestration across systems and vendors. This includes defining mechanisms and approaches for integrating IETF YANG data models with external frameworks (e.g., TMF640) and external systems (e.g., network source of truth, IP address management). Abstractions, the RFC 8969 framework, and service model explanations in RFC 8309 will be assessed against real-world deployment use cases to identify any gaps and develop solutions in conjunction with the relevants WG(s).
 
-ONSEN will also evaluate realization approaches and perform gap analyses to identify additional requirements for device-level models, the control, or data plane that are necessary for implementing services, coordinating with relevant WG(s) for technology or protocol-specific work.
-
 The WG will catalogue tooling resources (tools, gaps, recommendations, implementation examples, hackathon artifacts) in the WG GitHub and/or Wiki, and actively encourage participation in hackathons and interoperability events.
 
 ## Work Items
