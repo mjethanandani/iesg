@@ -8,7 +8,7 @@ For this WG, the term "abstraction" refers to the process of defining simplified
 
 ONSEN will serve as the IETF's focal point for service and network abstraction modeling, with four core activities:
 
-1. Documenting the operational needs and motivations for network and service abstractions.
+1. Documenting the use-cases, scope and priorities for network and service abstractions.
 1. Defining abstraction work, using device-level YANG models as the basis for the abstraction.
 1. Updating key YANG data models, including refactoring or restructuring, which includes at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
 1. Developing reusable abstractions and a common foundation for service YANG data models that allow multiple IETF service models to be built on a shared, extensible foundation.
@@ -21,7 +21,7 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, implement
 
 ## Work Items
 
-1. Develop a problem statement to define the scope and priorities for the other work items
+1. Develop a problem statement to define the use-cases, scope and priorities for the other work items taken from existing models, operator input, and the [IAB NEMOPS Workshop Report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/).
 1. Update the YANG network data models for L3NM and L2NM
 1. Update the YANG service data models for L3SM and L2SM
 1. Develop reusable service YANG data models
@@ -43,7 +43,7 @@ The WG may decide that some documents should remain as Internet-Drafts rather th
 | Date                      | Milestone | Description | Intended Track |
 |---------------------------|-----------| -------------|:--------------:|
 | May 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, TIP, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
-| November 2026              | WG adoption of a problem statement draft from existing models, operator input, and the [IAB NEMOPS workshop Report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) to identify use-cases, and define scope and priorities | Draft providing a problem statement draft to define use-cases, scope and priorities for ONSEN activities | Not published as RFC |
+| November 2026              | WG adoption of a problem statement draft defining the use-cases, scope and priorities for the WG taken from existing models, operator input, and the [IAB NEMOPS Workshop Report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/). | Draft providing a problem statement draft to define use-cases, scope and priorities for ONSEN activities | Not published as RFC |
 | December 2027                | WG adoption of a draft for Service-layer APIs based on YANG service models to interface with OSS/BSS | Draft detailing the Service-layer APIs based on YANG service models to interface with OSS/BSS | PS|
 | December 2027                | WG adoption of a draft for reusable service YANG data models | Draft detailing reusable  service YANG data models | PS|
 | March 2027                |WG adoption of draft updating the YANG network data models for L3NM and L2NM | Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps.| PS|
