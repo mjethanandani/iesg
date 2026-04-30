@@ -21,7 +21,7 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, implement
 
 ## Work Items
 
-1. Develop a problem statement to define the use-cases, scope and priorities for the other work items taken from existing models, operator input, and the [IAB NEMOPS Workshop Report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/).
+1. Develop a problem statement to define the use-cases, scope and priorities for the work items already identified in the charter. This should be taken from existing models, operator input, and the [IAB NEMOPS Workshop Report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/).
 1. Update the YANG network data models for L3NM and L2NM
 1. Update the YANG service data models for L3SM and L2SM
 1. Develop reusable service YANG data models
