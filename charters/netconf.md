@@ -9,6 +9,8 @@ The NETCONF Working Group, previously named after the NETCONF protocol, now rena
 
 The NETCONF protocol is data modeling language independent, but YANG ([RFC 7950](https://datatracker.ietf.org/doc/rfc7950/)) is the recommended NETCONF data modeling language, which introduces advanced language features for configuration management.
 
+The NETCONF working group should maintain parity between the NETCONF and RESTCONF protocols.
+
 The NETCONF WG is currently responsible for:
 
 a) The network management protocol NETCONF ([RFC 6241](https://datatracker.ietf.org/doc/rfc6241/)). This effort entails periodically updating the NETCONF related specifications to address new requirements as they arise.
@@ -17,7 +19,7 @@ b) The network management protocol RESTCONF ([RFC 8040](https://datatracker.ietf
 
 c) The transports and encodings used by the data model-driven protocols.
 
-d) The data models and mechanisms related to network management protocols. Specifically, data models enabling the configuration and/or monitoring of the protocols themselves. Other examples include data models for configuring access controls or discovering server metadata.
+d) The data models and mechanisms related to network management protocols. Specifically, data models enabling the configuration and/or monitoring of the protocols themselves.
 
 e) The data models for subscriptions to data, and protocol bindings for pushing subscribed data to clients, for the purpose of monitoring and telemetry.
 
