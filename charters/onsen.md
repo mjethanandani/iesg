@@ -21,7 +21,7 @@ Beyond these, ONSEN will produce informational documents describing service-laye
 1. Develop service and network level YANG data models for the abstraction layer
 1. Define the interface between YANG-based service APIs and the OSS/BSS layer
 
-The WG may decide that some documents, such as the problem statement, use-cases, scope and priorities, are not intended for RFC publication and will be maintained as WG documents.
+The WG may decide that some documents, such as the problem statement, use-cases, scope and priorities, are not intended for RFC publication and will be maintained as WG documents. The intended status of the remaining documents is Proposed Standard.
 
 ## Relationship With Existing WGs
 
