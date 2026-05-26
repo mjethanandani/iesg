@@ -31,6 +31,7 @@ The WG may decide that some documents, such as the problem statement, use-cases,
 * BESS/CCAMP/TEAS: ONSEN WG will take on future network and service data modeling efforts, while technology or protocol-specific modeling efforts remain in these WGs.
 * NMOP: ONSEN WG will focus on abstractions, while topology-related efforts will remain in NMOP. Network topology models are out of scope of ONSEN.
 * OPSAWG: ONSEN WG will handle AC/SAP/L2NM/L3NM work going forward, enabling OPSAWG to focus on other operational topics. Future abstraction-related work will be directed to ONSEN.
+* BESS/CCAMP/TEAS: Any network or service level modeling effort already adopted by these WG will remain in these WGs. However, ONSEN WG will take on future network and service data modeling efforts from these WGs.
 
 ## Milestones
 
