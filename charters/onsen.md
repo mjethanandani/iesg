@@ -2,7 +2,7 @@
 
 Large networks rely on service abstraction mechanisms — for example, VPNs, service function chains, traffic engineering, attachment circuits, and network slicing — to deliver differentiated services and simplify provisioning. As the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) highlighted, operational workflows for deploying, monitoring, and evolving these abstractions are inconsistent and poorly integrated, despite much of the underlying IETF prior work.
 
-The ONSEN WG aims to make IETF service and network abstractions easier to implement and use, improving automation, operational efficiency, and interoperability. 
+The ONSEN WG aims to make IETF service and network abstractions easier to implement and use, therefore improving automation, operational efficiency, and interoperability.
 
 For this WG, the term "abstraction" refers to the process of defining simplified, constructs that represent network and service-level capabilities. Abstraction enables interaction between managed components and automation management systems without directly exposing the underlying device-specific implementations. The layer between the managed components and automation management system is referred to as "abstraction layer".
 
@@ -12,7 +12,7 @@ ONSEN will serve as the IETF's focal point for service and network abstraction m
 1. Defining the abstraction layer, using device-level YANG models as the basis for the abstraction. As part of that, new service or network level YANG models will be developed as needed.
 1. Updating key YANG data models, including refactoring or restructuring, which includes at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
 
-Beyond these, ONSEN will produce informational documents describing service-layer APIs based on YANG service models for interfacing with Operational Support Systems (OSS)/Business Support Systems (BSS) systems, enabling automated and interoperable service orchestration across systems and vendors. This includes guidance on mapping IETF YANG data models to external frameworks (e.g., TMF640) and on interfacing with external systems (e.g., network source of truth, IP address management). ONSEN will not normatively define or extend those external frameworks.
+Beyond these, ONSEN will produce documents describing service-layer APIs based on YANG service models for interfacing with Operational Support Systems (OSS)/Business Support Systems (BSS) systems, enabling automated and interoperable service orchestration across systems and vendors. This includes guidance on mapping IETF YANG data models to external frameworks (e.g., TMF640) and on interfacing with external systems (e.g., network source of truth, IP address management). ONSEN will not normatively define or extend those external frameworks.
 
 ## Work Items
 
