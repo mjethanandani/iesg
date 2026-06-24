@@ -5,7 +5,7 @@ Source: https://datatracker.ietf.org/wg/netconf/about/
 
 ## Charter for Working Group
 
-The NETwork CONFiguration (NETCONF) Working Group, is responsible for the development and maintenance of protocols such as NETCONF and RESTCONF for YANG data model-driven management (for the purposes of, for example, configuration, monitoring, telemetry, and zero-touch), their transports and encodings, defining data models necessary to support the protocols, and defining mechanisms supporting the operational deployment of systems using the protocols.
+The NETwork CONFiguration (NETCONF) Working Group, is responsible for the development and maintenance of protocols such as NETCONF and RESTCONF for YANG data model-driven management (for the purposes of, for example, configuration, monitoring, telemetry, and zero-touch), their transport mappings and encodings, defining data models necessary to support the protocols, and defining mechanisms supporting the operational deployment of systems using the protocols.
 
 The NETCONF and RESTCONF protocols are data modeling language independent, but YANG ([RFC 7950](https://datatracker.ietf.org/doc/rfc7950/)) is the recommended NETCONF and RESTCONF data modeling language, which introduces advanced language features for configuration management.
 
