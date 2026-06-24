@@ -17,7 +17,7 @@ a) The network management protocol NETCONF ([RFC 6241](https://datatracker.ietf.
 
 b) The network management protocol RESTCONF ([RFC 8040](https://datatracker.ietf.org/doc/rfc8040/)). This effort entails periodically updating the RESTCONF related specifications to address new requirements as they arise.
 
-c) The transports and encodings used by the data model-driven protocols.
+c) The transport mappings and encodings used by the data model-driven protocols.
 
 d) The data models and mechanisms related to network management protocols. Specifically, data models enabling the configuration and/or monitoring of the protocols themselves.
 
