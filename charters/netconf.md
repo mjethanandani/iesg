@@ -13,9 +13,9 @@ The NETCONF working group should ensure that relevant updates to the NETCONF and
 
 The NETCONF WG is currently responsible for the following standards:
 
-a) The network management protocol NETCONF ([RFC 6241](https://datatracker.ietf.org/doc/rfc6241/)). This effort entails periodically updating the NETCONF related specifications to address new requirements as they arise.
+a) The network management protocol NETCONF ([RFC 6241](https://datatracker.ietf.org/doc/rfc6241/)). This effort entails periodically updating the NETCONF-related specifications to address new requirements as they arise.
 
-b) The network management protocol RESTCONF ([RFC 8040](https://datatracker.ietf.org/doc/rfc8040/)). This effort entails periodically updating the RESTCONF related specifications to address new requirements as they arise.
+b) The network management protocol RESTCONF ([RFC 8040](https://datatracker.ietf.org/doc/rfc8040/)). This effort entails periodically updating the RESTCONF-related specifications to address new requirements as they arise.
 
 c) The transport mappings and encodings used by the data model-driven protocols.
 
