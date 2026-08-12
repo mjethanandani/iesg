@@ -5,19 +5,19 @@ Source: https://datatracker.ietf.org/wg/netconf/about/
 
 ## Charter for Working Group
 
-The NETCONF Working Group, previously named after the NETCONF protocol, now renamed as the NETwork CONFiguration Working Group, is responsible for the development and maintenance of protocols such as NETCONF and RESTCONF for YANG data model-driven management (for the purposes of, for example, configuration, monitoring, telemetry, and zero-touch), their transports and encodings, defining data models necessary to support the protocols, and defining mechanisms supporting the operational deployment of systems using the protocols.
+The NETwork CONFiguration (NETCONF) Working Group, is responsible for the development and maintenance of protocols such as NETCONF and RESTCONF for YANG data model-driven management (for the purposes of, for example, configuration, monitoring, telemetry, and zero-touch), their transport mappings and encodings, defining data models necessary to support the protocols, and defining mechanisms supporting the operational deployment of systems using the protocols.
 
-The NETCONF protocol is data modeling language independent, but YANG ([RFC 7950](https://datatracker.ietf.org/doc/rfc7950/)) is the recommended NETCONF data modeling language, which introduces advanced language features for configuration management.
+YANG ([RFC 7950](https://datatracker.ietf.org/doc/rfc7950/)) is the recommended NETCONF and RESTCONF data modeling language, which introduces advanced language features for configuration management. The NETCONF and RESTCONF protocols transport YANG-modeled data over the wire.
 
-The NETCONF working group should maintain parity between the NETCONF and RESTCONF protocols.
+The NETCONF working group should ensure that relevant updates to the NETCONF and RESTCONF protocols are evaluated for consistency and compatibility between the two.
 
-The NETCONF WG is currently responsible for the maintenance and extensions of:
+The NETCONF WG is currently responsible for the following standards:
 
 a) The network management protocol NETCONF ([RFC 6241](https://datatracker.ietf.org/doc/rfc6241/)). This effort entails periodically updating the NETCONF-related specifications to address new requirements as they arise.
 
 b) The network management protocol RESTCONF ([RFC 8040](https://datatracker.ietf.org/doc/rfc8040/)). This effort entails periodically updating the RESTCONF-related specifications to address new requirements as they arise.
 
-c) The transports and encodings used by the data model-driven protocols.
+c) The transport mappings and encodings used by the data model-driven protocols.
 
 d) The data models and mechanisms related to network management protocols. Specifically, data models enabling the configuration and/or monitoring of the protocols themselves.
 
