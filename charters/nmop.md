@@ -30,6 +30,8 @@ The Network Management Operations working group is scoped, in rough order from h
 
 - Document operational experience and best practice for network management and telemetry deployment as BCPs or Informational RFCs.
 
+The working group may conduct experiments applying AI techniques to its existing work on anomaly detection and incident management. Each experiment requires a proposal stating its boundaries, exit criteria, and implementation commitment, and needs working group consensus and AD agreement before it starts. The chairs, in consultation with the AD, will limit the number of concurrent AI experiments to what the working group can actively support. The working group will not develop AI models, agent architectures, or agent protocols. AI experiments in other areas require a charter update.
+
 This working group is not chartered to work on new protocols or protocol enhancements.
 
 Agenda time at NMOP sessions at IETF meetings should allow for presentations and discussions of operator issues and experience, and other work within scope for the working group, but with a default expectation that priority be given to operator presentations.
