@@ -30,19 +30,23 @@ The Network Management Operations working group is scoped, in rough order from h
 
 - Document operational experience and best practice for network management and telemetry deployment as BCPs or Informational RFCs.
 
+The working group may conduct experiments applying AI techniques to its existing work on anomaly detection, problem and incident management. Each experiment requires a proposal stating its boundaries, exit criteria, and implementation commitment, and needs working group consensus and AD agreement before it is adopted. The chairs, in consultation with the AD, will limit the number of concurrent AI experiments to what the working group can actively support. The working group will not develop AI models, agent architectures, or agent protocols. AI experiments in other areas require a charter update.
+
 This working group is not chartered to work on new protocols or protocol enhancements.
 
 Agenda time at NMOP sessions at IETF meetings should allow for presentations and discussions of operator issues and experience, and other work within scope for the working group, but with a default expectation that priority be given to operator presentations.
 
 The current topics of focus for the working group are:
 
-- NETCONF/YANG Push integration with Apache Kafka & time series databases
+- NETCONF/YANG-Push/BMP/IPFIX integration with Message Broker & time series databases
 
 - Anomaly detection and incident management
 
 - Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
 
 - Consider/plan an approach for updating [RFC 3535](https://datatracker.ietf.org/doc/rfc3535/)-bis (collecting updated operator requirements for IETF network management solutions)
+
+- Apply AI techniques to its existing work on anomaly detection, problem and incident management
 
 Like many of the "ops" working groups, this working group is expected to be long-lived, and is expected to remain open whilst there is sufficient interest and drive from the operators to work on topics within the scope described above.
 
