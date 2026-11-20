@@ -46,7 +46,7 @@ The current topics of focus for the working group are:
 
 - Consider/plan an approach for updating [RFC 3535](https://datatracker.ietf.org/doc/rfc3535/)-bis (collecting updated operator requirements for IETF network management solutions)
 
-- Apply AI techniques to its existing work on anomaly detection and incident management
+- Apply AI techniques to its existing work on anomaly detection, problem and incident management
 
 Like many of the "ops" working groups, this working group is expected to be long-lived, and is expected to remain open whilst there is sufficient interest and drive from the operators to work on topics within the scope described above.
 
